@@ -1,0 +1,41 @@
+#PetForo
+An OfferUp / Ebay for Pets
+
+*Stories*
+
+Post Feed
+
+-A scrollable 3 x 5 grid of posts near your area
+
+Search Function w/ Filters
+
+-Search bar that enables quick search with specific elements. Filter will include things like which type of pet (cat, dog, fish, fox, tortoise, etc), location ( within X miles of your location,etc ), age of pet (X years old)
+
+Create Post
+
+-Similar to an ebay post, but will have more pet-specific questions. Such as age, breed, location, medical history, current medical condition, etc
+
+Message Inbox
+
+-More similar to OfferUp, PetForo will offer an 'inbox/messages' section for those who ask about more specific questions or general buyer communications
+
+Post Info Page
+
+-This is the screen where the post is actually clicked on and enlarged. Basically it will feature a scroll through of the pictures of the pet as well as the all of the given information that the owner includes.
+
+*MVP*
+
+Search Function w/ Filters
+Create Post
+Message Inbox
+Post Info Page
+
+*Views*
+
+Home page - 3x5 grid feed
+Inbox Page - Messages
+Create Post Page
+View Post Page - when a post is clicked on
+Search Bar/Search Page - when finding a specific post based on features
+Account Page
+
